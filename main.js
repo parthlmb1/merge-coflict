@@ -1,3 +1,3 @@
-var num = 5
+var num = 5;
 
-var str = “Hello World!”
+var str = “Hello World!”;
